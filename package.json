@@ -1,0 +1,13 @@
+{
+  "name": "webhook-event-processor",
+  "version": "1.0.0",
+  "description": "Secure webhook validation and idempotent event processing for Node.js services.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
